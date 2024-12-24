@@ -77,7 +77,7 @@ int main() {
     allPlusAndAvg(array, size);
     
     // 오름차순 내림차순 구분을 위해 입력값 처리
-    cout << "오름차순 정렬을 원하시면 1, 내림차순 정렬을 원하시면 2를 입력해주세요 :" << endl;
+    cout << "오름차순 정렬을 원하시면 1, 내림차순 정렬을 원하시면 2를 입력해주세요 :";
     cin >> temp;
     
     sort(temp, array);
