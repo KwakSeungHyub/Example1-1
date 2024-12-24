@@ -51,6 +51,7 @@ int main() {
     allPlus(array, size);
     allAvg(array, size);
     return 0;
+
 }
 
 
