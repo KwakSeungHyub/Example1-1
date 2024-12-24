@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="example.cpp">
+    <None Include="..\Project1.sln">
       <Filter>소스 파일</Filter>
-    </ClCompile>
+    </None>
   </ItemGroup>
 </Project>
